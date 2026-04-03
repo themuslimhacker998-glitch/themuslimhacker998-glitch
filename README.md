@@ -3,7 +3,7 @@
 💻 Web Developer | 🎬 Manim Animator | 🧠 Algorithm Learner
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Robotics+Specialist;Web+Developer;Visual+Math+Animator;Content+Creator;Online+Math+Tutor;Algorithm+Learner;Deep+Thinker" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=B0F72E&width=435&lines=Robotics+Specialist;Web+Developer;Visual+Math+Animator;Content+Creator;Online+Math+Tutor;Algorithm+Learner;Deep+Thinker" alt="Typing SVG" /></a>
 </p>
 
 ---
