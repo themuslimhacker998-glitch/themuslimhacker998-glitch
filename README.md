@@ -3,7 +3,7 @@
 💻 Web Developer | 🎬 Manim Animator | 🧠 Algorithm Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Web+Developer;Manim+Animator;Problem+Solver;Future+Engineer" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Robotics+Specialist;Web+Developer;Visual+Math+Animator;Content+Creator;Online+Math+Tutor;Algorithm+Learner;Deep+Thinker" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🚀 Projects
 
-🔹 📱 Edu Quiz App
+🔹 📱 QuizmasterBD App
 
 * Generate MCQ from PDF
 * Built with React
@@ -56,6 +56,8 @@
 🔹 💻 Algorithm Practice
 
 * Solving problems using C/C++
+
+# Defender Game 
 
 ---
 
